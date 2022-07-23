@@ -6,6 +6,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632481/ei/w
  
 #EXTINF:-1,TN EN VIVO (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658633201/ei/kWfcYrC6FM7zwASunaLIAg/ip/45.172.27.131/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khq_hN_uUS0NAM-WIL0Ua6bLqo3OMPjXNK3riy9eT/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALBa5qiYfSWhAoznYE_k1d3WrEMmi2yocob9EF5th0xTAiEAheLV3O_CfLhCkakFXuR-j6T0AJcz9bOPx4MamZGcJCQ%3D/file/index.m3u8
+
 #EXTINF:-1,A24 (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632642/ei/YmXcYpHvFJOQobIPj9yLuAI/ip/45.172.27.131/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khrz1v3PHCawCml4Gk9j1Zt_zHTNhGfJPf-bg-eaN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKXlbEDWa-UmTUEe3eZeagVCpFsA-EPpxJ0e0xJPLZXoAiEA6nzYDyxqae-aYIXcib0wOtQCZ0Ubims_0p1NZx8BoGk%3D/file/index.m3u8
 
@@ -18,5 +19,158 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632827/ei/G
 #EXTINF:-1,Canal 26 (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632895/ei/X2bcYpnTBOmW4dUPl7u8gAY/ip/45.172.27.131/id/BwEO5hrk_oo.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkrqrQ0Zg9zuI6JVj4pDQVSUg4MjJEzVlj1YiR5X/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAILovideRv4MV70o1x-8QFXUqdpfxKb2qWtZTuStZJrIAiEA8zQyf2Gxz0CWtBSQ1WM1wMbasYpvWXSm8i31UPoAoTI%3D/file/index.m3u8
 
-#EXTINF:-1,LN (Y)
+#EXTINF:-1,LN+ (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658631602/ei/UmHcYpubGKiiobIPifqa6AQ/ip/45.172.27.131/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khv2FWj3mm0eqxDSVPCsXq1scr0tpFSDaSlOjmmrn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALz9VAK1LMNicHN7S0Z4H0-odSwURcOf6S9eJmrVq9pNAiBY7mycKbFgzn04ctRxi_MpFMacR2HPhZ_6maaY-ZzYdQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,Telefe Cordoba (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658634583/ei/92zcYpyMHfvj1sQPoIanmAU/ip/45.172.27.131/id/eOyz4z70uzg.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhhhWwgLd8IYLmRtglK7eme6mUjO1J4EumowYGmqk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJCy3l8ovrXS7KTn70ATEhkhu8vVqa50Hhuoh0n9J_ZkAiEA5CwASd3_Mmfm4og9Dfiz_vMHu_xwRNbO3hpTMCUqj7k%3D/file/index.m3u8
+
+#EXTINF:-1,CANAL 13 MAX HD (F)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTINF:-1,canal 3 rosario (F)
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+#EXTINF:-1,Telefe Rosario (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658634907/ei/O27cYrzDD6-V-LAPiu-V-Ao/ip/45.172.27.131/id/2NB0oC8aPoo.42/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/maxh/2160/maudio/1/spc/lT-KhrMyK0BH4Erf3yc9g2c4i52LxKWrwNq0AStK4ifp/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSD-2NyDftos6AlvX1JzYoqqL-gA1qmUNAJbiDyObgi8CIC87mjUgLBhNgC7Y0XqaIfHTMJlYmIJAlLM36rTZ_xr0/file/index.m3u8
+
+#EXTINF:-1,5rtv (F)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1,TV Publica (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658635036/ei/vG7cYp_yHMHcwwSbtbbYBg/ip/45.172.27.131/id/bK0L5_vjGyc.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/maxh/2160/maudio/1/spc/lT-KhiQSAkZ8GeHpp_Aoi7-c_1Ffpg2wGq0esy2SlsQK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJA_cd-Zz3_Qx6R7Nx60u4LhV6TqyFRbhdl7CbmHRylvAiBCm7R4Ad7oDktSGpyF2Mv6h3YA3tphyyOrDFDaNy05zQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,Canal Encuentro (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658635129/ei/GW_cYqbrF8jV1sQPitqjoAo/ip/45.172.27.131/id/sHw3o8xMdpc.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhirAp-JDqhpqcoCe1x2NeQUWBWSmwsfbO33HKEdm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOF6Pmpo-bT6ykR6ZjdHGbDRIdR2M7o80NvPYOSjDBh1AiAul6IgVkhKIzoInPAzDjS7jQzT9-40211p9MnzwNfWtg%3D%3D/file/index.m3u8
+
+
+
+
+#EXTINF:-1,Argentinisima satelital (F)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,Canal 13 San Juan (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658635986/ei/cnLcYro3wdrCBOLasbgF/ip/45.172.27.131/id/kqEIxcDIous.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhmCb1GH172VrlKWyaTO_ajmjWB-onQULEHRS3b4q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeX3X5pnF6ZoMLREflyBm5muwOvivHvQSOp-j9P9jgvMCIFCAIPHslxUH-5r7iYqAjtUwwsjTbltHLKl190YsR4R0/file/index.m3u8
+
+#EXTINF:-1,Chaco tv 28 (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636055/ei/tnLcYrKZPKmMobIP15uH2As/ip/45.172.27.131/id/FJT5mGK6zcA.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhvN31AzcVGfDF9mI-a7OiQWmSnOuzRv1J94XV6pv/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALd9R_fwyilzBDudiBiZT3AeY4gyecqumdb8a_MIx9TNAiEA-ml94GLqvf6wJcXazm7ydth-fsVkk27leSBlOSCCPY8%3D/file/index.m3u8
+
+#EXTINF:-1,Canal 7 Mdz (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636121/ei/-XLcYvr8CtCPxAS9wLuoAQ/ip/45.172.27.131/id/wFVRGjzEqOc.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhpoD8p3PpyqZA0xQqw5iQ4wGe7QTbk756671roL5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIXwZ7CRE153iS1HgdlLI6pdMB3ZSbpdLMgHCoTjA3UMAiBAESnM5DbytM9yGKE3FQTVw97s6V8dxfit9E3y45zqYQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,Canal 3 Pinamar(F) 
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,Canal KZO(stable)
+https://www.youtube.com/watch?v=gycJJg09AmI
+
+
+
+#EXTINF:-1,DeporTV (stable)
+https://www.youtube.com/watch?v=6vJ2FlwltxY
+
+
+#EXTINF:-1,America Sports (stable)
+https://www.youtube.com/watch?v=B9hwOM6jAbs
+
+
+
+
+
+
+
+
+#EXTINF:-1,chacra tv
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+
+#EXTINF:-1,Cine AR
+
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,DW Español (stable)
+https://www.youtube.com/watch?v=RTjbYKBB828
+
+
+#EXTINF:-1,12 TV (stable)
+https://www.youtube.com/watch?v=gBbMbqILzXU
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Music Top 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1,Red Bull TV
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+
+#EXTINF:-1,SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,enlace tv
+
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
