@@ -65,6 +65,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636055/ei/t
 #EXTINF:-1,Canal 7 Mdz (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636121/ei/-XLcYvr8CtCPxAS9wLuoAQ/ip/45.172.27.131/id/wFVRGjzEqOc.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhpoD8p3PpyqZA0xQqw5iQ4wGe7QTbk756671roL5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIXwZ7CRE153iS1HgdlLI6pdMB3ZSbpdLMgHCoTjA3UMAiBAESnM5DbytM9yGKE3FQTVw97s6V8dxfit9E3y45zqYQ%3D%3D/file/index.m3u8
 
+#EXTINF:-1,Canal 12 Cdba (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658637425/ei/EXjcYsO6G9-S4dUPwOm22Ak/ip/45.172.27.131/id/gBbMbqILzXU.284/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhruX9Gkmc_jJ46pJ90DvFQL-EaYIlRBFCre88WvB/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBnXeV2ixKKafST_gEuwkxj5Cw03IjloyS1j38MD0PiECIQC65U2fp5FrNj4S36zc1h0q7sp4ItTrBpFtoBHnE__2Ew%3D%3D/file/index.m3u8
+
 #EXTINF:-1,Canal 3 Pinamar(F) 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
@@ -103,9 +106,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1,DW Español (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636744/ei/Z3XcYqSKOpKIxQSvspq4Dg/ip/45.172.27.131/id/RTjbYKBB828.5/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khv58Gv-9T_QDFc2oImlM4rOcEn168g_GRrSN777v/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKVRX2eV7OTFApJ16JDsH8LxtZA28ha6AXfX3gbanfU9AiEA7VLHqqTS64K08ImtrQDESdmcwf8Erq_bEeagop9Kw4Y%3D/file/index.m3u8
-
-#EXTINF:-1,12 TV (stable)
-https://www.youtube.com/watch?v=gBbMbqILzXU
 
 
 
