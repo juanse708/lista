@@ -72,17 +72,16 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,Canal KZO(stable)
-https://www.youtube.com/watch?v=gycJJg09AmI
+#EXTINF:-1,Canal KZO(Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636559/ei/r3TcYreTH8GaobIPgp6z6A4/ip/45.172.27.131/id/gycJJg09AmI.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khi0v1h1XAjaG8zpQBUQnSIhnoThgtA0FGceW7FeP/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKbR7k2UX-6TkSvyn5h7J5dWlesMH6flhYJowxuvToPkCIQDSxDpMALAVpHDMJDwlypD9Ivj9d1839rJmtW9xM0XU5Q%3D%3D/file/index.m3u8
 
 
 
-#EXTINF:-1,DeporTV (stable)
-https://www.youtube.com/watch?v=6vJ2FlwltxY
-
+#EXTINF:-1,DeporTV (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636632/ei/-HTcYoX5KJiE5gSNpoTABw/ip/45.172.27.131/id/6vJ2FlwltxY.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhjxGAViRF2cHruAX06t1d7YsejlpkjKUS2jQ5x4l/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJyo14at9ohqgN9I4q64QP_WvnRACkzGeg8Ohhz36d29AiB1rB2okC12kzW7HBE1TY55HpwC_Skya_zLwsQnIM8Dew%3D%3D/file/index.m3u8
 
 #EXTINF:-1,America Sports (stable)
-https://www.youtube.com/watch?v=B9hwOM6jAbs
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636678/ei/JXXcYorCNMjV1sQPitqjoAo/ip/45.172.27.131/id/B9hwOM6jAbs.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhrXL5nz2l2zySwxJsZSTWt-fwtTbolvxNrs33-V0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOwOTAgZSfXYbom8fXZ0DIpXH7m2FBYdrGfzQ7G82k_9AiEA4IDqUi257fYT4FD1czsGIrTns1hRZ22tbdmvYH39pnk%3D/file/index.m3u8
 
 
 
@@ -102,28 +101,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
 
-#EXTINF:-1,DW Español (stable)
-https://www.youtube.com/watch?v=RTjbYKBB828
-
+#EXTINF:-1,DW Español (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636744/ei/Z3XcYqSKOpKIxQSvspq4Dg/ip/45.172.27.131/id/RTjbYKBB828.5/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khv58Gv-9T_QDFc2oImlM4rOcEn168g_GRrSN777v/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKVRX2eV7OTFApJ16JDsH8LxtZA28ha6AXfX3gbanfU9AiEA7VLHqqTS64K08ImtrQDESdmcwf8Erq_bEeagop9Kw4Y%3D/file/index.m3u8
 
 #EXTINF:-1,12 TV (stable)
 https://www.youtube.com/watch?v=gBbMbqILzXU
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Music Top 
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
 
 
 
@@ -138,6 +120,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,SKI TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 
+
+#EXTINF:-1,Music Top 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 
