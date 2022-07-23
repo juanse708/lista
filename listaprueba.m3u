@@ -1,24 +1,23 @@
 #EXTM3U
  
 
-#EXTINF:-1,Paka Paka (stable)
-https://www.youtube.com/watch?v=GvKCnBC80Gc
+#EXTINF:-1,Paka Paka (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632481/ei/wWTcYseqE4eJ-LAPpfq0iAM/ip/45.172.27.131/id/GvKCnBC80Gc.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khuw4w6A6Z1BzC-OGMWL2XyX2PTA4LonmS1c-0ifc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIY6kuzuC0q0ZUe0ZwH5SwCSIZrxCjimuRmcfb899yvlAiAVMX2bM18PJFDR1LZuvDeY1gH4lHtu3VALxroCahS_Og%3D%3D/file/index.m3u8
  
-#EXTINF:-1,TN EN VIVO stable
-https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:-1,TN EN VIVO (Y)
+"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632557/ei/DWXcYtyMIqmQ4dUPlcy4KA/ip/45.172.27.131/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhlJggZVmpbqlrxN82VYKKWqjS8HWsGnuFt4ZN0z1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAINWgzfr42ApyqPAF5rRWtH8QUH_vQSCKPSsquS8SUqFAiEAxIcHdbR6jOCYcJSFhn7y3S8pbc5fhEVriLAR_PyfQmY%3D/file/index.m3
 
-#EXTINF:-1,A24 stable
-https://www.youtube.com/watch?v=WIPjYtR2N6s
+#EXTINF:-1,A24 (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632642/ei/YmXcYpHvFJOQobIPj9yLuAI/ip/45.172.27.131/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khrz1v3PHCawCml4Gk9j1Zt_zHTNhGfJPf-bg-eaN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKXlbEDWa-UmTUEe3eZeagVCpFsA-EPpxJ0e0xJPLZXoAiEA6nzYDyxqae-aYIXcib0wOtQCZ0Ubims_0p1NZx8BoGk%3D/file/index.m3u8
 
 #EXTINF:-1,C5N stable
-https://www.youtube.com/watch?v=jF3jb9JDBr0
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632706/ei/omXcYpO2Kcqf4dUPss2R0Ag/ip/45.172.27.131/id/jF3jb9JDBr0.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khhzv7WF_oK7DR-6RfnAKdcH7LLdI88jx327IBCpr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIK3FDDAHVtxL14Qcubt6R1TdaIXOL0Umc8FhxuehXU9AiEAi7yJAw2duyrbTcQodbXwvwdSAu-7ohG-8fW7fVd2JtU%3D/file/index.m3u8
 
-#EXTINF:-1,Cronica HD stable
-https://www.youtube.com/watch?v=InSydaLSSlw
+#EXTINF:-1,Cronica HD (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632827/ei/G2bcYuHbF8qQ5gTohaOoCg/ip/45.172.27.131/id/InSydaLSSlw.6/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhjGSvPkIQVDD4nQDcBGOmr03lLsOXYxzy5an5-Bm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPmzMz6PRAqKct8R7lpxsCKqJEfOx-TKc8mcaIOJbvmrAiEAr06BXblV1b7ol-E9Sk-nWH6-wxXQ8FLZOzf84f2OGK4%3D/file/index.m3u8
 
+#EXTINF:-1,Canal 26 (Y)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658632895/ei/X2bcYpnTBOmW4dUPl7u8gAY/ip/45.172.27.131/id/BwEO5hrk_oo.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkrqrQ0Zg9zuI6JVj4pDQVSUg4MjJEzVlj1YiR5X/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAILovideRv4MV70o1x-8QFXUqdpfxKb2qWtZTuStZJrIAiEA8zQyf2Gxz0CWtBSQ1WM1wMbasYpvWXSm8i31UPoAoTI%3D/file/index.m3u8
 
-#EXTINF:-1,Canal 26 (stable)
-https://www.youtube.com/watch?v=BwEO5hrk_oo
-
-#EXTINF:-1,LN (stable)
+#EXTINF:-1,LN (Y)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658631602/ei/UmHcYpubGKiiobIPifqa6AQ/ip/45.172.27.131/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khv2FWj3mm0eqxDSVPCsXq1scr0tpFSDaSlOjmmrn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALz9VAK1LMNicHN7S0Z4H0-odSwURcOf6S9eJmrVq9pNAiBY7mycKbFgzn04ctRxi_MpFMacR2HPhZ_6maaY-ZzYdQ%3D%3D/file/index.m3u8
