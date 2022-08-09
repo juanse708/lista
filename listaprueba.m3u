@@ -46,15 +46,15 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
 #EXTINF:-1,TV Publica (Yt)
-https://www.youtube.com/watch?v=tmFJwnIBbNU
+https://youtu.be/Ool8aBP-XMA
 
 #EXTINF:-1,Canal Encuentro (Yt)
-https://www.youtube.com/watch?v=sHw3o8xMdpc
+https://youtu.be/HQ0wOJOuHTE
 
 
+REGIONALES
 
-#EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television | AR
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -66,20 +66,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 #EXTINF:-1,Telefe Rosario (Yt)
 https://www.youtube.com/watch?v=2NB0oC8aPoo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1,Canal 13 San Juan (Y)
