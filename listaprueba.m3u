@@ -51,15 +51,15 @@ https://youtu.be/Ool8aBP-XMA
 #EXTINF:-1,Canal Encuentro (Yt)
 https://youtu.be/HQ0wOJOuHTE
 
+#EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica | AR
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+
+
+
+
 
 REGIONALES
 
-
-
-
-
-#EXTINF:-1,CANAL 13 MAX HD (F)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1,canal 3 rosario (F)
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
@@ -67,21 +67,33 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1,Telefe Rosario (Yt)
 https://www.youtube.com/watch?v=2NB0oC8aPoo
 
+#EXTINF:-1,CANAL 13 MAX HD (F)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1,Canal 13 San Juan (Y)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658635986/ei/cnLcYro3wdrCBOLasbgF/ip/45.172.27.131/id/kqEIxcDIous.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhmCb1GH172VrlKWyaTO_ajmjWB-onQULEHRS3b4q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeX3X5pnF6ZoMLREflyBm5muwOvivHvQSOp-j9P9jgvMCIFCAIPHslxUH-5r7iYqAjtUwwsjTbltHLKl190YsR4R0/file/index.m3u8
-
-#EXTINF:-1,Chaco tv 28 (Y)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636055/ei/tnLcYrKZPKmMobIP15uH2As/ip/45.172.27.131/id/FJT5mGK6zcA.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhvN31AzcVGfDF9mI-a7OiQWmSnOuzRv1J94XV6pv/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALd9R_fwyilzBDudiBiZT3AeY4gyecqumdb8a_MIx9TNAiEA-ml94GLqvf6wJcXazm7ydth-fsVkk27leSBlOSCCPY8%3D/file/index.m3u8
+#EXTINF:-1,Chaco tv 28 (Yt)
+https://youtu.be/hgOuzzHWUl8
 
 #EXTINF:-1,Canal 7 Mdz (Y)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658636121/ei/-XLcYvr8CtCPxAS9wLuoAQ/ip/45.172.27.131/id/wFVRGjzEqOc.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhpoD8p3PpyqZA0xQqw5iQ4wGe7QTbk756671roL5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIXwZ7CRE153iS1HgdlLI6pdMB3ZSbpdLMgHCoTjA3UMAiBAESnM5DbytM9yGKE3FQTVw97s6V8dxfit9E3y45zqYQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,Canal 12 Cdba (Y)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658637425/ei/EXjcYsO6G9-S4dUPwOm22Ak/ip/45.172.27.131/id/gBbMbqILzXU.284/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhruX9Gkmc_jJ46pJ90DvFQL-EaYIlRBFCre88WvB/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBnXeV2ixKKafST_gEuwkxj5Cw03IjloyS1j38MD0PiECIQC65U2fp5FrNj4S36zc1h0q7sp4ItTrBpFtoBHnE__2Ew%3D%3D/file/index.m3u8
+https://youtu.be/wFVRGjzEqOc
 
 #EXTINF:-1,Canal 3 Pinamar(F) 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV * | AR
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="274" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre | AR
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png", Sicardi TV | AR
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1144" tvg-name="Zonda TV" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png", Zonda TV | AR
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
+
+
+
+
 
 
 
