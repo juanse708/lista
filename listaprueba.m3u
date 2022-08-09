@@ -46,7 +46,11 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 https://www.youtube.com/watch?v=2NB0oC8aPoo
 
 #EXTINF:-1,5rtv (F)
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
+
+#EXTINF:-1,Canal 13 (Tw)
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvkEnFyY2IA2VzAvYZ3ze7FeqvMSGtiKAQg61JYRFDTDT8kW7olrUChRBys4xJGxEeqcNw_rhtvAXlUs8FIkM3ciFYXggkb5ykJdKpcy29rArWOaVHRFqm5bi7khrwxIQVRZby68qH5zanVYS4uNZMp1KcS_vGjXgvDuUt9oKR_94dYbjSoa62uIK743NvZfNSJTKWhwboMfOcNAWVozbCit0kjA5pQTHHCDmsqSljgB14XOYngcOxkMroDG8SlNibW8ct8JQsk_VAur7sVPDDGqk3FfDUJXz4pFQqZqKI3MLDnHKgrRruErN9Za_IHwFyP2luEiqoMD-X9hN00v2qMGVvx6Yy4dBlY3x3bKFoVtimBNGGG3XnLwngPgb9XBhUuYGKLHl5mIRlkYamaUN-_ig9crAmVVToBVFMFDABnKUlDQQPysoHWOiRVZwTLyZWL2SwoJOnw0obVwCr0O2j_HuwkvF58J0PUBtBHzRLbV3VBFkxP41DMVb0iUv0dBHvgKt6Cdkzh92EbJGE0ApYvwd8Vwv9Va7R24sB2dXALmbmFeCU912XxlJWGUlEDH-C8Pl65Extc7UIPvonITY8OeXatQgA51CWmqAmQoy5NTzb_ZVRRpEYqAG1xXeo3FiJqzKxmreQEhZf6ffgeSYSe7mOuebBCS3c-hYPH67eFbPxRt78Zdwl5O-jzFZFWuXMzNoA16cXpyKmyD829MJqtSQ5tldIFc2e9Ob0mGz3zcNo9zhAaP5wM3RlZ1FloBhJsp7iWi7iYeL0LRiXZT46_uFe3H9vf6_BSx3BJ1_m_GKUoeoVfBSPIw69AFWQPg0FYdd3QVlbbZqrNuGgw5J3Szc-rq0WOz370gASoJZXUtd2VzdC0yMLIE.m3u8
+
 
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
