@@ -1,10 +1,9 @@
 #EXTM3U
+#EXTINF:-1,Paka Paka (Yt)
+https://youtu.be/iBtXvDsHrFY
 
 #EXTINF:-1,Ver TV (W)
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-#EXTINF:-1,Paka Paka (Yt)
-https://youtu.be/iBtXvDsHrFY
 
 #EXTINF:-1,TN EN VIVO (Yt)
 https://www.youtube.com/watch?v=wHn1_QVoXGM
@@ -21,15 +20,38 @@ https://www.youtube.com/watch?v=InSydaLSSlw
 #EXTINF:-1,Canal 26 (Yt)
 https://www.youtube.com/watch?v=y6Yr-aV6nfM
 
-
 #EXTINF:-1,LN+ (Yt)
 https://www.youtube.com/watch?v=HYxWurJ3ejE
 
-#EXTINF:-1,Unife
+#EXTINF:-1,Unimedia
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1658445693&e=1658445813&h=a159549c8a7b862448bce9669198fe27
+
+#EXTINF:-1,Argentinisima satelital (F)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
+#EXTINF:-1,5rtv (F)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
+
+#EXTINF:-1,Canal 13 (Tw)
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvkEnFyY2IA2VzAvYZ3ze7FeqvMSGtiKAQg61JYRFDTDT8kW7olrUChRBys4xJGxEeqcNw_rhtvAXlUs8FIkM3ciFYXggkb5ykJdKpcy29rArWOaVHRFqm5bi7khrwxIQVRZby68qH5zanVYS4uNZMp1KcS_vGjXgvDuUt9oKR_94dYbjSoa62uIK743NvZfNSJTKWhwboMfOcNAWVozbCit0kjA5pQTHHCDmsqSljgB14XOYngcOxkMroDG8SlNibW8ct8JQsk_VAur7sVPDDGqk3FfDUJXz4pFQqZqKI3MLDnHKgrRruErN9Za_IHwFyP2luEiqoMD-X9hN00v2qMGVvx6Yy4dBlY3x3bKFoVtimBNGGG3XnLwngPgb9XBhUuYGKLHl5mIRlkYamaUN-_ig9crAmVVToBVFMFDABnKUlDQQPysoHWOiRVZwTLyZWL2SwoJOnw0obVwCr0O2j_HuwkvF58J0PUBtBHzRLbV3VBFkxP41DMVb0iUv0dBHvgKt6Cdkzh92EbJGE0ApYvwd8Vwv9Va7R24sB2dXALmbmFeCU912XxlJWGUlEDH-C8Pl65Extc7UIPvonITY8OeXatQgA51CWmqAmQoy5NTzb_ZVRRpEYqAG1xXeo3FiJqzKxmreQEhZf6ffgeSYSe7mOuebBCS3c-hYPH67eFbPxRt78Zdwl5O-jzFZFWuXMzNoA16cXpyKmyD829MJqtSQ5tldIFc2e9Ob0mGz3zcNo9zhAaP5wM3RlZ1FloBhJsp7iWi7iYeL0LRiXZT46_uFe3H9vf6_BSx3BJ1_m_GKUoeoVfBSPIw69AFWQPg0FYdd3QVlbbZqrNuGgw5J3Szc-rq0WOz370gASoJZXUtd2VzdC0yMLIE.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONALES", CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+#EXTINF:-1,TV Publica (Yt)
+https://www.youtube.com/watch?v=tmFJwnIBbNU
+
+#EXTINF:-1,Canal Encuentro (Yt)
+https://www.youtube.com/watch?v=sHw3o8xMdpc
+
+
 
 #EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
@@ -45,33 +67,18 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1,Telefe Rosario (Yt)
 https://www.youtube.com/watch?v=2NB0oC8aPoo
 
-#EXTINF:-1,5rtv (F)
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
-
-#EXTINF:-1,Canal 13 (Tw)
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvkEnFyY2IA2VzAvYZ3ze7FeqvMSGtiKAQg61JYRFDTDT8kW7olrUChRBys4xJGxEeqcNw_rhtvAXlUs8FIkM3ciFYXggkb5ykJdKpcy29rArWOaVHRFqm5bi7khrwxIQVRZby68qH5zanVYS4uNZMp1KcS_vGjXgvDuUt9oKR_94dYbjSoa62uIK743NvZfNSJTKWhwboMfOcNAWVozbCit0kjA5pQTHHCDmsqSljgB14XOYngcOxkMroDG8SlNibW8ct8JQsk_VAur7sVPDDGqk3FfDUJXz4pFQqZqKI3MLDnHKgrRruErN9Za_IHwFyP2luEiqoMD-X9hN00v2qMGVvx6Yy4dBlY3x3bKFoVtimBNGGG3XnLwngPgb9XBhUuYGKLHl5mIRlkYamaUN-_ig9crAmVVToBVFMFDABnKUlDQQPysoHWOiRVZwTLyZWL2SwoJOnw0obVwCr0O2j_HuwkvF58J0PUBtBHzRLbV3VBFkxP41DMVb0iUv0dBHvgKt6Cdkzh92EbJGE0ApYvwd8Vwv9Va7R24sB2dXALmbmFeCU912XxlJWGUlEDH-C8Pl65Extc7UIPvonITY8OeXatQgA51CWmqAmQoy5NTzb_ZVRRpEYqAG1xXeo3FiJqzKxmreQEhZf6ffgeSYSe7mOuebBCS3c-hYPH67eFbPxRt78Zdwl5O-jzFZFWuXMzNoA16cXpyKmyD829MJqtSQ5tldIFc2e9Ob0mGz3zcNo9zhAaP5wM3RlZ1FloBhJsp7iWi7iYeL0LRiXZT46_uFe3H9vf6_BSx3BJ1_m_GKUoeoVfBSPIw69AFWQPg0FYdd3QVlbbZqrNuGgw5J3Szc-rq0WOz370gASoJZXUtd2VzdC0yMLIE.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONALES", CANAL 9  35.1
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
 
 
-#EXTINF:-1,TV Publica (Yt)
-https://www.youtube.com/watch?v=tmFJwnIBbNU
-
-#EXTINF:-1,Canal Encuentro (Yt)
-https://www.youtube.com/watch?v=sHw3o8xMdpc
 
 
 
-#EXTINF:-1,Argentinisima satelital (F)
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+
+
 
 
 
