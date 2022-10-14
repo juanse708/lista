@@ -114,6 +114,12 @@ https://www.youtube.com/watch?v=hl_nACnH42w
 #EXTINF:-1,Canal de la Ciudad (stable)
 https://www.youtube.com/watch?v=uk6btTpO5IY
 
+#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Canal KZO(stable)
+https://www.youtube.com/watch?v=wxAozf0mkbQ
+
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
