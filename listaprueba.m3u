@@ -47,8 +47,6 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1,TV Publica (Yt)
 https://www.youtube.com/watch?v=BW562GwlLnQ
 
-#EXTINF:-1,Canal Encuentro (Yt)
-https://www.youtube.com/watch?v=iwkfjLaO1Ao
 
 #EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
@@ -113,12 +111,33 @@ https://www.youtube.com/watch?v=hl_nACnH42w
 
 
 
+#EXTINF:-1,Canal de la Ciudad (stable)
+https://www.youtube.com/watch?v=uk6btTpO5IY
+
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
+
+  
+#EXTINF:-1,Canal Encuentro (Yt)
+https://www.youtube.com/watch?v=iwkfjLaO1Ao
+
+#EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax | AR
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Canal TEC (Yt)
+https://www.youtube.com/watch?v=de1G_rT1hqM
+
+#EXTINF:-1,DW Español (Yt)
+https://www.youtube.com/watch?v=RTjbYKBB828
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión | AR
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
-
-
-
 
 #EXTINF:-1,Canal 3 Pinamar(F) 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -140,9 +159,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_
 
   
 
-#EXTINF:-1,Canal de la Ciudad (stable)
-https://www.youtube.com/watch?v=uk6btTpO5IY
-
 
 
 #EXTINF:-1,Cine AR
@@ -152,12 +168,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax | AR
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1,DW Español (Yt)
-https://www.youtube.com/watch?v=RTjbYKBB828
 
 
 
