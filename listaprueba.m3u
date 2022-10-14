@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,Paka Paka (Yt)
 https://youtu.be/iBtXvDsHrFY
 
@@ -36,9 +37,10 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="5RTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4o9hQRI.png" group-title="Undefined",5RTv (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
+#EXTINF:-1,canal 3 rosario (F)
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
-#EXTINF:-1,Canal 13 (Tw)
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvkEzFs3_tIXtaSlboO0qXWSMgKG8f4ovZndTvqT7CjQm9BVgTssX3x9d3IRuz6Q1C6zBNG_xJ_jrIN-AbFl9xy0vfZn0hH7S7QdKJjiYk8lFrgFF1qzONyuV0JdgCypFN34KqEgQAD_cJne51OumOdcxmb5HzzeKjs0DKuxqaDx1DgFLtnn5pIvAytKNCpfklw5Jm6pGfYN1l9f7KE8qLBYSkrBZ3QGcExAhV6VswiyAx0vR63O3zAv67f4jHNNLNmtuXIchJ-RluhyjuplWVjyu_7A_3PvuhEc5DA6gsNmZlc7iaV26Tmpc8h8kFuXKX0rBzrDS16zLW3zM1gpRH4w2QdNrYsRuzzjPR8gU7vfzRXxzDm2ttVEFAYjnOL_0fxZpMTUeZWxe9qxYBITH6ONSTQn1PQDnTI-HLrqx4Gz7oiQ7guGqJANE6jAgvn5vkVryzv4l4ULYqyxvNiuBzM2nnJwf9Os7f9S738skvHeNToSXNto6ZXpgY9wHujQENy2gOlejbLHnFzw0wI83z8vbDl0HJ2REIaCzEqwtE_t4Y0hFA4x4Y5Ov9_WmWJE_9hyR4Rd7zJbMWkEd5cGrGsDEDwlgwc2lDEdbOTvcHuMUaCzvPVADUnLkEmammeWMsHCk3KC_lLnQ1m5I833EAeWdeSIQVdQSnptZoRHVIOBp3TV0DpmTrUbCrh3l6HA0K0ZPQKWHd1MEEv_bOIOvpbuN76GHWE9LJ_L5xko4KCSkyzIrcF9oytZZn6eX6CSbb5JG4txKIvTGqeihzsklmlrJh0ClcqDANVJQ3FOcijP_4gEupoz1nb_Q-dhgNK1bqYtR8Iv0nIK-0gTGgykJeBO6IFdGWmOJ84gASoJZXUtd2VzdC0yMLME.m3u8
+
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -55,10 +57,8 @@ https://youtu.be/HQ0wOJOuHTE
 #EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 
-REGIONALES
 
-#EXTINF:-1,canal 3 rosario (F)
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
 
 #EXTINF:-1,Telefe Rosario (Yt)
 https://www.youtube.com/watch?v=2NB0oC8aPoo
@@ -84,13 +84,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?Playl
 #EXTINF:-1 tvg-id="274" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre | AR
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png", Sicardi TV | AR
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1144" tvg-name="Zonda TV" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png", Zonda TV | AR
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 
-DEPORTES
 
 #EXTINF:-1,DeporTV (Y)
 https://www.youtube.com/watch?v=DPPGxamh72g
@@ -132,7 +129,7 @@ https://www.youtube.com/watch?v=RTjbYKBB828
 
 
 
-MUSICA
+
 
 #EXTINF:-1,Music Top 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
