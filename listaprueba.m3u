@@ -25,8 +25,6 @@ https://www.youtube.com/watch?v=HlhZ0XZHHaw
 #EXTINF:-1,Unimedia
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1658445693&e=1658445813&h=a159549c8a7b862448bce9669198fe27
 
-#EXTINF:-1,Argentinisima satelital (F)
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
@@ -81,6 +79,21 @@ https://www.youtube.com/watch?v=3RVdgSZuJr4
 https://www.youtube.com/watch?v=o5BQxAeICeA
 
 
+#EXTINF:-1,Argentinisima satelital (F)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural | AR
+
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,chacra tv
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1,DeporTV (Y)
 https://www.youtube.com/watch?v=DPPGxamh72g
 
@@ -131,8 +144,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_
 https://www.youtube.com/watch?v=uk6btTpO5IY
 
 
-#EXTINF:-1,chacra tv
-https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1,Cine AR
 
