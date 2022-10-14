@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Paka Paka (Yt)
-https://www.youtube.com/watch?v=juM4lsQuUHQ
 
 #EXTINF:-1,Ver TV (W)
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
@@ -83,6 +81,26 @@ https://www.youtube.com/watch?v=3RVdgSZuJr4
 https://www.youtube.com/watch?v=o5BQxAeICeA
 
 
+#EXTINF:-1,DeporTV (Y)
+https://www.youtube.com/watch?v=DPPGxamh72g
+
+#EXTINF:-1,America Sports (stable)
+https://www.youtube.com/watch?v=B9hwOM6jAbs
+
+
+
+#EXTINF:-1,Paka Paka (Yt)
+https://www.youtube.com/watch?v=juM4lsQuUHQ
+
+#EXTINF:-1,WB Kids Latino (Yt)
+https://www.youtube.com/watch?v=-qZNGtrfUpM
+
+#EXTINF:-1,Peppa Pig Latino (Yt)
+https://www.youtube.com/watch?v=hl_nACnH42w
+
+
+
+
 #EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión | AR
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
 
@@ -103,11 +121,6 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1,DeporTV (Y)
-https://www.youtube.com/watch?v=DPPGxamh72g
-
-#EXTINF:-1,America Sports (stable)
-https://www.youtube.com/watch?v=B9hwOM6jAbs
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
