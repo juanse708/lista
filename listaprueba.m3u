@@ -60,8 +60,9 @@ https://www.youtube.com/watch?v=uJjvFIMK2Sw
 #EXTINF:-1,CANAL 13 MAX HD (F)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1,ChacoTV (Yt)
-https://www.youtube.com/watch?v=s4cyZiErRZ8
+#EXTINF:-1 tvg-id="279" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV | AR
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1,Canal 7 Mdz (Yt)
