@@ -128,8 +128,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1,Canal TEC 
 https://www.youtube.com/watch?v=de1G_rT1hqM
 
-#EXTINF:-1,DW Español 
-https://www.youtube.com/watch?v=RTjbYKBB828
+#EXTINF:-1,DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1,RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1,CGTN En Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -145,6 +148,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1,Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF:-1,fashiontv
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
