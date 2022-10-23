@@ -82,32 +82,8 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="279" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV | AR
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1,Canal 7 Mdz (Yt)
-https://www.youtube.com/watch?v=41YAYbmRVq4
-
-#EXTINF:-1,Canal 8 San Juan
-https://www.youtube.com/watch?v=xEjg98Qbg6g
-
-#EXTINF:-1,EL ONCE Parana  (Yt)
-https://www.youtube.com/watch?v=3RVdgSZuJr4
-
-#EXTINF:-1,Canal Doce Cdoba (Yt)
-https://www.youtube.com/watch?v=o5BQxAeICeA
-
-
 #EXTINF:-1,Argentinisima satelital (F)
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural | AR
 
@@ -120,26 +96,26 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 
 
-#EXTINF:-1,DeporTV (Y)
+#EXTINF:-1,DeporTV 
 https://www.youtube.com/watch?v=DPPGxamh72g
 
-#EXTINF:-1,America Sports (stable)
+#EXTINF:-1,America Sports 
 https://www.youtube.com/watch?v=B9hwOM6jAbs
 
 
 
-#EXTINF:-1,Paka Paka (Yt)
+#EXTINF:-1,Paka Paka 
 https://www.youtube.com/watch?v=juM4lsQuUHQ
 
-#EXTINF:-1,WB Kids Latino (Yt)
+#EXTINF:-1,WB Kids Latino 
 https://www.youtube.com/watch?v=-qZNGtrfUpM
 
-#EXTINF:-1,Peppa Pig Latino (Yt)
+#EXTINF:-1,Peppa Pig Latino 
 https://www.youtube.com/watch?v=hl_nACnH42w
 
 
 
-#EXTINF:-1,Canal de la Ciudad (stable)
+#EXTINF:-1,Canal de la Ciudad 
 https://www.youtube.com/watch?v=uk6btTpO5IY
 
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
@@ -159,19 +135,15 @@ https://www.youtube.com/watch?v=iwkfjLaO1Ao
 #EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax | AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Canal TEC (Yt)
+#EXTINF:-1,Canal TEC 
 https://www.youtube.com/watch?v=de1G_rT1hqM
 
-#EXTINF:-1,DW Español (Yt)
+#EXTINF:-1,DW Español 
 https://www.youtube.com/watch?v=RTjbYKBB828
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-
-
-
 
 
 #EXTINF:-1,Cine AR
@@ -181,22 +153,17 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión | AR
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV * | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="274" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre | AR
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1 tvg-id="1144" tvg-name="Zonda TV" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png", Zonda TV | AR
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="AMBA", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
 
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
