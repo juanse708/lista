@@ -115,12 +115,11 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Canal KZO(stable)
 https://www.youtube.com/watch?v=wxAozf0mkbQ
 
-
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
 
   
-#EXTINF:-1,Canal Encuentro (Yt)
+#EXTINF:-1,Canal Encuentro 
 https://www.youtube.com/watch?v=iwkfjLaO1Ao
 
 #EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax | AR
@@ -132,11 +131,22 @@ https://www.youtube.com/watch?v=de1G_rT1hqM
 #EXTINF:-1,DW Español 
 https://www.youtube.com/watch?v=RTjbYKBB828
 
+#EXTINF:-1,CGTN En Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,Tastemade
+https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+
 
 
 #EXTINF:-1,Cine AR
@@ -158,38 +168,36 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="AMBA", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+#EXTINF:-1,10 GEN TV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 
 
 
-#EXTINF:-1,T13 CHILE (stable)
+#EXTINF:-1,T13 CHILE 
 https://www.youtube.com/watch?v=Ove87nZ_1D4
 
-#EXTINF:-1,24 Horas.CL(stable)
-https://www.youtube.com/watch?v=BFnB7tO33Ao
-
-#EXTINF:-1,Meganoticias CL(stable)
+#EXTINF:-1,Meganoticias 
 https://www.youtube.com/watch?v=S7bOUbZ-pe8
 
-#EXTINF:-1,RTVE Noticias (yt)
+#EXTINF:-1,Noticias Caracol
+https://www.youtube.com/watch?v=baQjc4qM2Tw
+
+#EXTINF:-1, TeleSUR 
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1,RTVE Noticias 
 https://www.youtube.com/watch?v=xR-4NDFsYNk
 
-#EXTINF:-1,euronews (yt)
-https://www.youtube.com/watch?v=HYE67W-35KI
+#EXTINF:-1,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1,FRANCE 24 (yt)
-https://www.youtube.com/watch?v=XDJPzMznAjU
 
-#EXTINF:-1,MILENIO NOTICIAS(stable)
-https://www.youtube.com/watch?v=UWNlpWsNS4M
 
-#EXTINF:-1,Multimedios Costa RIca(stable)
-https://www.youtube.com/watch?v=NOJf0umMvi4
 
-#EXTINF:-1,Noticias Caracol COL(stable)
-https://www.youtube.com/watch?v=baQjc4qM2Tw
 
   #EXTINF:-1,Music Top 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
