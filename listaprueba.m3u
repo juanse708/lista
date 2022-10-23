@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-
-
 #EXTINF:-1,TN EN VIVO 
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
@@ -51,7 +48,6 @@ https://www.youtube.com/c/CanalSieteMendoza1/live
 #EXTINF:-1,Canal 8 (San Juan)
 https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g/live
 
-
 #EXTINF:-1,Canal 12 Cordoba
 https://www.youtube.com/c/eldoce/live
 
@@ -65,13 +61,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
-
-
-
 #EXTINF:-1,Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
@@ -140,8 +131,10 @@ https://www.youtube.com/watch?v=de1G_rT1hqM
 
 #EXTINF:-1,DW Español 
 https://www.youtube.com/watch?v=RTjbYKBB828
+
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -198,25 +191,7 @@ https://www.youtube.com/watch?v=NOJf0umMvi4
 #EXTINF:-1,Noticias Caracol COL(stable)
 https://www.youtube.com/watch?v=baQjc4qM2Tw
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Music Top 
+  #EXTINF:-1,Music Top 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="294" tvg-name="Terramia TV" tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", Terramia TV | AR
