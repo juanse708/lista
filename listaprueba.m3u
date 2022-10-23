@@ -55,6 +55,12 @@ https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g/live
 #EXTINF:-1,Canal 12 Cordoba
 https://www.youtube.com/c/eldoce/live
 
+#EXTINF:-1,14 TV Publica
+https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:-1,Informacion Periodistica 
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
@@ -74,12 +80,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONALES", CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
-#EXTINF:-1,TV Publica 
-https://www.youtube.com/watch?v=BW562GwlLnQ
 
-
-#EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica | AR
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 
 
 
