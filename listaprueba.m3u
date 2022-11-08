@@ -7,16 +7,16 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 https://www.youtube.com/watch?v=o8JBz0XFS_k
 
 #EXTINF:-1,C5N
-https://www.youtube.com/watch?v=1QW-0AccJwU
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
 
 #EXTINF:-1,Cronica HD 
 https://www.youtube.com/watch?v=InSydaLSSlw
 
 #EXTINF:-1,Canal 26 
-https://www.youtube.com/watch?v=PWFWVIWTXkM
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1,LN+ 
-https://www.youtube.com/watch?v=HlhZ0XZHHaw
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
 #EXTINF:-1,Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1658445693&e=1658445813&h=a159549c8a7b862448bce9669198fe27
@@ -126,7 +126,7 @@ https://www.youtube.com/watch?v=iwkfjLaO1Ao
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Canal TEC 
-https://www.youtube.com/watch?v=de1G_rT1hqM
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1,DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
