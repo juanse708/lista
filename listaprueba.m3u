@@ -28,8 +28,7 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 #EXTINF:-1,Telefe Rosario 
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1667933808~exp=1668110208~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=eb1cbd74bcf9ddc33cd70798936c68cfe6dff2b9d59694f9ea3c617bf44354b4
-
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1668248205~acl=%2f*~data=hdntl~hmac=b8f295ab324e249bdfdf325dd5c2852710381cbaadbc065916ae97aeddab163d/canal5rosario0.m3u8
 #EXTINF:-1,Ver TV 
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
