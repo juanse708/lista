@@ -29,6 +29,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 #EXTINF:-1,Telefe Rosario 
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1668157927~exp=1668334327~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=cdfc6562037cb5064c2322e8697f804cd61a78a4e3d545ef608794178366491b
+
 #EXTINF:-1,Ver TV 
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
@@ -41,17 +42,21 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1,ChacoTV
 https://www.youtube.com/channel/UCPmnk6gpje7qhq2eaAwtsMQ/live
 
+#EXTINF:-1,Canal 7 (Jujuy)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
 #EXTINF:-1,Canal 7 (Mdoza)
 https://www.youtube.com/c/CanalSieteMendoza1/live
 
 #EXTINF:-1,Canal 8 (San Juan)
 https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g/live
 
+#EXTINF:-1,Canal 10 Cordoba
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+
 #EXTINF:-1,Canal 12 Cordoba
 https://www.youtube.com/c/eldoce/live
 
-#EXTINF:-1,Canal 10 Cordoba
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1,Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
