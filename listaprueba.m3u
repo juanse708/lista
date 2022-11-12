@@ -154,6 +154,8 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Fuel TV
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
