@@ -152,16 +152,6 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Fuel TV
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-
-#EXTINF:-1,fashiontv
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
@@ -220,6 +210,16 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Fuel TV
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF:-1,fashiontv
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
