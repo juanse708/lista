@@ -109,7 +109,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_
 
   
 #EXTINF:-1,Canal Encuentro 
-https://www.youtube.com/watch?v=kOdsC54gohY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 
 #EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax | AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
