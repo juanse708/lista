@@ -1,17 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,TN EN VIVO 
-https://www.youtube.com/watch?v=wHn1_QVoXGM
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1,A24 
-https://www.youtube.com/watch?v=o8JBz0XFS_k
-
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1,C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 #EXTINF:-1,Cronica HD 
 https://www.youtube.com/watch?v=InSydaLSSlw
-
 #EXTINF:-1,Canal 26 
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
