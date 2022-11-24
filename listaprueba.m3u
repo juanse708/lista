@@ -2,12 +2,16 @@
 
 #EXTINF:-1,TN EN VIVO 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+
 #EXTINF:-1,A24 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
+
 #EXTINF:-1,C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
+
 #EXTINF:-1,Cronica HD 
 https://www.youtube.com/watch?v=InSydaLSSlw
+
 #EXTINF:-1,Canal 26 
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
@@ -208,8 +212,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Fuel TV
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
