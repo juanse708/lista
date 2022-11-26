@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,TN EN VIVO 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669450183/ei/ZnWBY-6uN7ubobIP_4GQmA0/ip/45.172.27.131/id/O3bhL1gPdxM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ar/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOKmYlb2BZsv482uCIdnqiPhi5qayS9Iis5QkvgS3Wf7AiEA84uoEQHbx0li04ahaJUnERgWHkMfW_HgH-2e9gVMze4%3D/file/index.m3u8
 #EXTINF:-1,A24 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
 
