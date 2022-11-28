@@ -68,15 +68,13 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 --------------
+#EXTINF:-1,Canal TDC
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1,ChacoTV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1,canal 3 rosario 
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-
-
-
-#EXTINF:-1,CANAL 13 MAX HD 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1,Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -87,35 +85,24 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1,Canal 10 (Cordoba)
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1,ChacoTV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
-
 #EXTINF:-1,Canal 13 (La Rioja)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
+#EXTINF:-1,CANAL 13 MAX HD 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1,Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-
-#EXTINF:-1,Canal TDC
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1,LTO 
 https://ltocatamarca.github.io/ltotv.m3u8
 
 #EXTINF:-1,City Sports
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
-
-
-
 
 #EXTINF:-1,Canal de la Ciudad 
 https://g5.proy-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
