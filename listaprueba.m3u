@@ -1,18 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Paka Paka 
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,LTO 
 https://ltocatamarca.github.io/ltotv.m3u8
-
-#EXTINF:-1,TN EN VIVO 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
-
-#EXTINF:-1,A24 
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
-#EXTINF:-1,C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 
 #EXTINF:-1,Aire de Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
@@ -56,6 +45,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1,America Sports 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1,Paka Paka 
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Argentinisima satelital 
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
@@ -70,12 +61,8 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1,Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-
---------------
 #EXTINF:-1,Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
 
 #EXTINF:-1,canal 3 rosario 
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
@@ -95,15 +82,8 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1,CANAL 13 MAX HD 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1,Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
@@ -165,10 +145,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 
-
-
-
-
 #EXTINF:-1, TeleSUR 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
@@ -187,8 +163,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 
+--------------
 
+#EXTINF:-1,TN EN VIVO 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 
+#EXTINF:-1,A24 
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1,C5N
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 
 
 
