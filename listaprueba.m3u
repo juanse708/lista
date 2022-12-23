@@ -2,6 +2,9 @@
 #EXTINF:-1,Paka Paka 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,LTO 
+https://ltocatamarca.github.io/ltotv.m3u8
+
 #EXTINF:-1,TN EN VIVO 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 
@@ -102,8 +105,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1,Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-#EXTINF:-1,LTO 
-https://ltocatamarca.github.io/ltotv.m3u8
 
 #EXTINF:-1,City Sports
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
