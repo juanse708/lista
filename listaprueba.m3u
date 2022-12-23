@@ -14,8 +14,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1,C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 
-#EXTINF:-1,Cronica HD 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669450614/ei/FneBY937Io6XxASigruoAw/ip/45.172.27.131/id/InSydaLSSlw.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgerf5HbkryowqMnOPwXxfmx0Vbkdi_mvgdAZ9XuIVjokCIQClPgI7YzGDgMMGFA9Q1uS0MST9_TLZEWLHo72NoXgTDA%3D%3D/file/index.m3u8
+#EXTINF:-1,Aire de Santa Fe
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 
 #EXTINF:-1,Canal 26 
 http://200.115.193.177/live/26hd-720/playlist.m3u8
