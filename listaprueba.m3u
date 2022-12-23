@@ -9,8 +9,6 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1,Canal 26 
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1,LN+ 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
 #EXTINF:-1,Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1658445693&e=1658445813&h=a159549c8a7b862448bce9669198fe27
@@ -174,6 +172,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1,C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 
+#EXTINF:-1,LN+ 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
 
 
