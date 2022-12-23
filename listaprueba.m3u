@@ -46,7 +46,7 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
 
 #EXTINF:-1,Canal Encuentro 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:-1,DeporTV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
