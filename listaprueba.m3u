@@ -70,8 +70,6 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1,Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1,TYC Sports
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8749
 
 --------------
 #EXTINF:-1,Canal TDC
@@ -105,11 +103,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
-#EXTINF:-1,City Sports
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Canal de la Ciudad 
-https://g5.proy-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
