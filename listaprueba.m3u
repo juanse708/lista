@@ -66,6 +66,9 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1,Canal 8 (Mar del Plata)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
+#EXTINF:-1,Canal 9 multivision
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
+
 #EXTINF:-1,Canal 10 (Cordoba)
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
@@ -77,6 +80,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1,Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+#EXTINF:-1,Somos
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
 
 #EXTINF:-1,Informacion Periodistica
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
