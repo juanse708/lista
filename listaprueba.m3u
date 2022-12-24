@@ -43,11 +43,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1,America Sports 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+
 #EXTINF:-1,Paka Paka 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Argentinisima satelital 
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural | AR
 
@@ -98,8 +98,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1,Canal TEC 
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1,Acequia TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCrYFBjFOP_zlFzsif9XDhgw/live
 
 #EXTINF:-1,DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -115,10 +113,6 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión | AR
@@ -175,11 +169,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/l
 #EXTINF:-1,LN+ 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
+#EXTINF:-1,Argentinisima satelital 
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 
-
-
-
+#EXTINF:-1,Acequia TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCrYFBjFOP_zlFzsif9XDhgw/live
 
 
 
