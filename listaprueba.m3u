@@ -145,6 +145,8 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
  #EXTINF:-1,Music Top 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
+#EXTINF:-1,Tierra Mia
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
