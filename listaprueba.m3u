@@ -84,6 +84,9 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1,Somos
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
 
+#EXTINF:-1,Ciudad TV Resistencia (Chaco)
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+
 #EXTINF:-1,Informacion Periodistica
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
 
