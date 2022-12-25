@@ -1,22 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1,Canal 26 
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
 #EXTINF:-1,A24 
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="News" user-agent="iPhone",A24 (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1,LTO 
-https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:-1,Unife
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1658445693&e=1658445813&h=a159549c8a7b862448bce9669198fe27
 
 #EXTINF:-1,Aire de Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-
-#EXTINF:-1,Canal 26 
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-
-
-#EXTINF:-1,Unife
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1658445693&e=1658445813&h=a159549c8a7b862448bce9669198fe27
 
 #EXTINF:-1,Ver TV 
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
@@ -39,6 +35,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1,Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1,LTO 
+https://ltocatamarca.github.io/ltotv.m3u8
 
 #EXTINF:-1,Canal Encuentro 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
