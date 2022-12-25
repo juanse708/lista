@@ -44,6 +44,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1,Paka Paka 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,LatinoKids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
 #EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural | AR
 
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
