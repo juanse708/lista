@@ -36,8 +36,6 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1,Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
-#EXTINF:-1,LTO 
-https://ltocatamarca.github.io/ltotv.m3u8
 
 #EXTINF:-1,Canal Encuentro 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
@@ -211,6 +209,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="274" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre | AR
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,LTO 
+https://ltocatamarca.github.io/ltotv.m3u8
 
 
 
