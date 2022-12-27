@@ -42,6 +42,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1,DeporTV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
+#EXTINF:-1,TV Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
 #EXTINF:-1,Paka Paka 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
