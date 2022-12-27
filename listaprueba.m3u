@@ -70,7 +70,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1,Canal 8 (Mar del Plata)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
-#EXTINF:-1,Canal 9 multivision
+#EXTINF:-1,Canal 9 Televida
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
 
 #EXTINF:-1,Canal 10 (Cordoba)
