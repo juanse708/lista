@@ -31,9 +31,8 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONALES", CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
-#EXTINF:-1,Canal U
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
-
+#EXTINF:-1,Informacion Periodistica
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
 
 #EXTINF:-1,Canal Encuentro 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
@@ -90,8 +89,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
 #EXTINF:-1,Ciudad TV Resistencia (Chaco)
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
-#EXTINF:-1,Informacion Periodistica
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
+#EXTINF:-1,Canal U
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
