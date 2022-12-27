@@ -91,6 +91,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
 #EXTINF:-1,Ciudad TV Resistencia (Chaco)
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
+#EXTINF:-1,Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+
 #EXTINF:-1,Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
