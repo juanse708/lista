@@ -55,6 +55,9 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,chacra tv
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
+#EXTINF:-1,Argentinisima Satelital
+https://cronos.aldeaglobal.net.ar//hls//argentinisima.m3u8
+
 #EXTINF:-1,Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
