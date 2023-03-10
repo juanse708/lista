@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
 
+#EXTINF:-1,Canal Encuentro 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" group-title="News" user-agent="iPhone",A24 (720p)
 #EXTVLCOPT:http-user-agent=iPhone
@@ -37,9 +37,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1,Informacion Periodistica
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1,Canal Encuentro 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:-1,DeporTV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
